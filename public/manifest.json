@@ -1,0 +1,68 @@
+{
+    "name": "My Ethniki Insurance",
+    "short_name": "MyEthniki",
+    "description": "Everything about your insurance at your fingertips 24/7, with just one click. Sign up today and discover all the services available to you!",
+    "theme_color": "#ffffff",
+    "background_color": "#0a5bab",
+    "display": "standalone",
+    "orientation": "any",
+    "scope": "/",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "/images/pwa/icons/icon-24.png",
+            "type": "image/png",
+            "sizes": "24x24"
+        },
+        {
+            "src": "/images/pwa/icons/icon-48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/images/pwa/icons/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/pwa/icons/icon-256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/images/pwa/icons/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/images/pwa/icons/icon-24.png",
+            "type": "image/png",
+            "sizes": "24x24",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/images/pwa/icons/icon-48.png",
+            "type": "image/png",
+            "sizes": "48x48",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/images/pwa/icons/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/images/pwa/icons/icon-256.png",
+            "type": "image/png",
+            "sizes": "256x256",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/images/pwa/icons/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable"
+        }
+    ]
+}
